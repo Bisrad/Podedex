@@ -1,0 +1,97 @@
+
+/* Global */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: sans-serif;
+    justify-content: center;
+  }
+
+  /* main styles */
+
+  .hide {
+    display: none;
+  }
+
+  .nav-wrapper {
+    background-color: red;
+  }
+
+  .title {
+    text-align: center;
+  }
+
+  .section {
+    margin-top: 2rem;
+    text-align: center;
+  }
+  
+  .poke-front-image {
+    transform: scale(3);
+    display: block;
+    margin: 5rem auto;
+  }
+  .main-list {
+    text-align: left;
+  }
+  .list-style {
+    padding: 0!important;
+  }
+  .list-item {
+    padding: 1rem;
+    font-size: 20px;
+    background-color: #2a75bb;
+    color: white;
+    margin: 1rem;
+  }
+
+ .poke-name {
+    font-weight: 700;
+  }
+
+  .poke-type-one {
+    margin: 2rem 0;
+    border-radius: 10px;
+    padding: 1rem;
+    background: white;
+  }
+  .poke-type-two {
+    margin: 2rem 0;
+    border-radius: 10px;
+    padding: 1rem;
+    background: white;
+  }
+  
+
+  li {
+    list-style: none;
+    text-align: center;
+  }
+  .buttons-area {
+    padding: 2rem 0;
+  }
+
+  button {
+    text-align: center;
+    padding: 2rem;
+    width: 20%;
+  }
+
+  .buttons-area > button {
+    text-align: center;
+    background-color: #ffcb05;
+    border: none;
+    border-radius: 30px;
+  }
+
+  /* data styles */
+
+  .poke-id {
+    font-size: 2rem;
+    font-weight: 700;
+  }
