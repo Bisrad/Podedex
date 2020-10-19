@@ -25,6 +25,12 @@ const TYPES = [
     'fire', 'water', 'grass',
     'electric', 'psychic', 'ice',
     'dragon', 'dark', 'fairy'
+    'normal', 'fighting', 'flying',
+    'poison', 'ground', 'rock',
+    'bug', 'ghost', 'steel',
+    'fire', 'water', 'grass',
+    'electric', 'psychic', 'ice',
+    'dragon', 'dark', 'fairy'
 ];
 
 // Set default on url pull
