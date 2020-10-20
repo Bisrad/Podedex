@@ -4,6 +4,8 @@
 
 > A Js webApp utilizing APi's to create a interactive library of Pokemon stats.
 
+![example](example.png)
+
 ## Author
 
 👤 **Brad Thompson ( @Bisrad )**
